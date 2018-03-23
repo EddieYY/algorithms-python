@@ -13,3 +13,10 @@
 
 2. bubble sort --> O(n^2)
 
+
+## Search
+1. linear searach --> O(n)
+
+2. binary search --> O(logn)
+
+
